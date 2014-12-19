@@ -1,5 +1,7 @@
 .form-table {
 	margin: 0 auto;
+	background-color: #f8f8f8;
+	border-radius: 20px;
 }
 
 .form-btn {
@@ -9,3 +11,38 @@
 li {
 	list-style: none;
 }
+
+.position-table {
+	margin: 0 auto;
+}
+
+.position-table td {
+	padding: 10px;
+}
+
+.form-label {
+	font-size: 24px;
+}
+
+.form-value {
+	font-size: 24px;
+}
+
+.form-table td {
+	padding: 10px 20px;
+}
+
+.form-table th {
+	padding: 10px 20px;
+	padding-left: 30px;
+}
+
+thead {
+	padding: 10px;
+}
+
+h1 {
+	margin: 30px auto;
+}
+
+
